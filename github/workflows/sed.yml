@@ -1,0 +1,21 @@
+name: Sed-replacer
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Find and Replace
+        uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: "AnkiCozmo"
+          replace: "AnkiCozmo"
+      - name: Pull All Updates
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Welcome to Anki Cozmo'
+          commit_options: '--no-verify'
+          repository: .
+          commit_user_name: King-Amda
+          commit_user_email: lasindu.senash@yandex.com
+          commit_author: King-Amda <lasindu.senash@yandex.com>
