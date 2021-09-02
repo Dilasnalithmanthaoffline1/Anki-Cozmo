@@ -7,9 +7,10 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/King-Amda/Anki-Cozmo.git)
 
 ## New version Avaiilable on Telegram as [The-Anki-Cozmo-Bot](https://t.me/TheAnkiCozmoBot)
+
 ## The-Anki-Vector-Bot is the latest
 
-
+### REPO IS BEST
 
 
 The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
