@@ -25,7 +25,7 @@ The Advanced Branch (For PRO's)
 The Anki Vector bot(advanced)
 
 # Contributors
-![GitHub Contributors Image](https://contrib.rocks/image?repo=King-Amda/Anki-Cozmo)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=king-amda/anki-cozmo)
 
 # Special Credits ❤
 
