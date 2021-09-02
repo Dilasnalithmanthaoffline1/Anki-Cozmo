@@ -39,5 +39,6 @@ The Anki Vector bot(advanced)
 - [King Amda](https://github.com/King-Amda) - Owner | Dev
 - [Damantha Jasinge](https://Github.com/Damantha126) - Owner | Dev
 - [Sadew Jayasekara](https://github.com/Sadew451) - Owner |Dev
+- - [Supun Maduranga](https://github.com/youtubeslgeekshow) - Dev
 - [Isuru Udara](https://github.com/SlIsuwa) - Dev
 
